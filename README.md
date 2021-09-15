@@ -2,7 +2,7 @@
 
 - 🔭 Frond-End
 - 🌱 Estudando Back-End
-- 💬 Contate-me no email: escorpmpartin97@gmail.com
+- 💬 Contate-me no email: escorpmartin97@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
