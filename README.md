@@ -1,5 +1,6 @@
 ### Olá, Meu nome é Martin 👋
 
+- 🚀 Estudante da Trybe
 - 🔭 Frond-End
 - 🌱 Estudando Back-End
 - 💬 Contate-me no email: escorpmartin97@gmail.com
