@@ -15,8 +15,9 @@
 
 <div>
   <a href="https://github.com/MartinGBB">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MartinGBB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGBB&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username={MartinGBB}&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={MartinGBB}&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -26,7 +27,5 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="75" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="MYSQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   
 </div>
-  
   ##
