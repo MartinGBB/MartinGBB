@@ -6,7 +6,7 @@
 - 💬 Contato: 
  <div> 
   <a href="https://www.linkedin.com/in/martinbrazon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:escorpḿartin97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
+  <a href = "mailto:escorpḿartin97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pt.stackoverflow.com/users/258031/martin-brazon"><img height="28" width="110" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
   <a href="https://www.instagram.com/martinb97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
@@ -15,9 +15,9 @@
 
 <div>
   <a href="https://github.com/MartinGBB">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username={MartinGBB}&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MartinGBB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
    
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={MartinGBB}&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGBB&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
  <div style="display: inline_block"><br>
