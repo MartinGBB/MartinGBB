@@ -28,4 +28,5 @@
   <img align="center" alt="Redux" height="30" width="75" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="MYSQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+ 
   ##
