@@ -31,4 +31,3 @@
  
   ##
  
- https://starchart.cc/MartinGBB/MartinGBB.svg
