@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Martin 👋
 
 - 🚀 Estudante da Trybe
-- 🔭 Frond-End
+- 🔭 Front-End
 - 🌱 Estudando Back-End
 - 💬 Contato: 
  <div> 
