@@ -1,8 +1,8 @@
  <h1 align=center>Olá, Meu nome é Martin 👋</h1>
-- 🚀 Estudante da Trybe
-- 🔭 Front-End
-- 🌱 Estudando Back-End
-- 💬 Contato:
+<p>- 🚀 Estudante da Trybe</p>
+<p>- 🔭 Front-End</p>
+<p>- 🌱 Estudando Back-End</p>
+<p>- 💬 Contato:</p>
 
  <div>
   <a href="https://www.linkedin.com/in/martinbrazon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
