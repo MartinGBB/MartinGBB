@@ -2,9 +2,9 @@
 <p>- 🚀 Estudante da Trybe</p>
 <p>- 🔭 Front-End</p>
 <p>- 🌱 Estudando Back-End</p>
-<p aling=center>💬 Contato:</p>
+<p>- 💬 Contato:</p>
 
- <div aling=center>
+ <div>
   <a href="https://www.linkedin.com/in/martinbrazon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:escorpḿartin97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pt.stackoverflow.com/users/258031/martin-brazon"><img height="28" width="110" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
