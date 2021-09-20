@@ -1,4 +1,4 @@
- <h1 align=center>Olá, Meu nome é Martin 👋</h1>
+ <h1 align=center>Olá, sou Martin 👋</h1>
 <p>- 🚀 Estudante da Trybe</p>
 <p>- 🔭 Front-End</p>
 <p>- 🌱 Estudando Back-End</p>
