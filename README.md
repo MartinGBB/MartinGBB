@@ -1,5 +1,5 @@
 # <h1>Olá, Meu nome é Martin 👋<h1>
-- 🚀 Estudante da Trybe
+<p>- 🚀 Estudante da Trybe<p>
 - 🔭 Front-End
 - 🌱 Estudando Back-End
 - 💬 Contato: 
