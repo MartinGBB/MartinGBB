@@ -1,10 +1,12 @@
  <h1 align=center>Olá, sou Martin 👋</h1>
-<p>- 🚀 Estudante da Trybe</p>
-<p>- 🔭 Front-End</p>
-<p>- 🌱 Estudando Back-End</p>
-<p>- 💬 Contato:</p>
+ 
+ <div align=center>
+   <p>🚀 Estudante da Trybe</p>
+   <p>🔭 Desenvolvedor Front-End</p>
+   <p>🌱 Estudando Back-End</p>
+  </div>
 
- <div>
+ <div align=center>
   <a href="https://www.linkedin.com/in/martinbrazon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:escorpḿartin97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://pt.stackoverflow.com/users/258031/martin-brazon"><img height="28" width="110" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
@@ -13,19 +15,20 @@
  
  ###
 
-<div>
+<div align=center>
   <a href="https://github.com/MartinGBB">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MartinGBB&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGBB&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <div align=center><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="75" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="MYSQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="mongodb" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
   ##
