@@ -2,8 +2,8 @@
  
  <div align=center>
    <p>🚀 Estudante da Trybe</p>
-   <p>🔭 Desenvolvedor Front-End</p>
-   <p>🌱 Estudando Back-End</p>
+   <p>🔭 Desenvolvedor Full Stack</p>
+   <p>🌱 Estudando Python atualmente</p>
   </div>
 
  <div align=center>
