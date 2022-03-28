@@ -4,7 +4,6 @@
    <p>🚀 Estudante da Trybe</p>
    <p>🔭 Desenvolvedor Full Stack</p>
    <p>🌱 Estudando Python atualmente</p>
-   <p>🌱 Quase finalizando o curso da trybe</p>
   </div>
 
  <div align=center>
