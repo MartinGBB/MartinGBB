@@ -1,8 +1,7 @@
  <h1 align=center>Olá, sou Martin 👋</h1>
  
  <div align=center>
-   <p>🚀 Estudante da Trybe</p>
-   <p>🔭 Desenvolvedor Full Stack</p>
+   <p>🚀 Desenvolvedor Full Stack formado pela Trybe</p>
  </div>
 
  <div align=center>
